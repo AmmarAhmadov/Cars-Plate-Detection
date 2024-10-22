@@ -1,2 +1,2 @@
-# Detection_of_Brain_Tumor
+# Detection_of_Car_Plate
 Projects in Control Systems
